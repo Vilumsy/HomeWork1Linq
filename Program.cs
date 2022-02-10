@@ -15,7 +15,7 @@ namespace MyApp
 
 
 
-            Student student = new Student() { StudentID = 1, StudentName = "John", Age = 14 };
+            Student student = new Student() { StudentID = 1, StudentName = "John", Age = 13 };
             var test = studentList.Contains(student);
             Console.WriteLine(test);
         
