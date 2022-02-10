@@ -19,12 +19,6 @@ namespace MyApp
             var test = studentList.Contains(student);
             Console.WriteLine(test);
         
-        
-        
-        
-        
-        
-        
         }
 
     }
